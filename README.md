@@ -4,11 +4,15 @@ A collection of Python-based blackjack tools, progressing from simple card count
 📘 Included Projects
 
 Card Counter – Tracks running and true count in real time.
+
 Basic Strategy Calculator – Suggests optimal plays based on player cards, dealer upcard, and rules (S17/H17, DAS/NDAS).
+
 Playmaker v1 – Combines counter and strategy calculator into one interface.
+
 Playmaker v2 – Final version using 2D tables and true count deviations for accurate advice.
 
 🛠 Built With
 
 Python
+
 Tkinter
