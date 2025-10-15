@@ -9,7 +9,7 @@ Basic Strategy Calculator – Suggests optimal plays based on player cards, deal
 
 Playmaker v1 – Combines counter and strategy calculator into one interface.
 
-Playmaker v2 – Final version using 2D tables and true count deviations for accurate advice.
+Playmaker v2 – Final version using 2D tables and true count deviations for optimal advice.
 
 🛠 Built With
 
